@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+section{
+    height: 700px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#thisish2{
+    font-size: 45px;
+    color: #EC4C7A;
+    
+}
+#thisisa{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #f54a7a,#EC4C7A);
+    font-weight: 400;
+    padding: 20px;
+    border-radius: 15px;
+    color: white;
+    
+}
+#thisisp{
+    margin-bottom: 40px;
+}
+.amisection{
+    background-image: url(/header-bg.png);
+    background-repeat: no-repeat;
+}
+.textone{
+    width: 40%;
+    float: left;
+    margin-left: 5%; 
+    padding-left: 3%;
+    margin-top: 100px;
+    height: 100%;
+}
+.textone img{
+    width:100%;
+    margin-right:300px;
+    
+}
+.biodataofmy{
+    background-image: url(/biography-bg.png);
+    background-repeat: no;
+    width: 100%;
+    height: 100%;
+    
+}
+.textone0{
+    width: 40%;
+    float: left;
+    margin-left: 5%; 
+    padding-left: 3%;
+    margin-top: 100px;
+    height: 100%;
+}
+.textone0 img{
+    width:100%;
+    margin-right:300px;
+    
+}
+
+#thisish1{
+    color: #EC4C7A;
+    font-size: 40px;
+    margin-top: 90px;
+}
+#thisisp{
+    margin-top: 40px;
+}
+#latest{
+    text-align: center;
+}
+.textone1{
+    width: 10%;
+    float: left;
+    margin-left: 5%; 
+    padding-left: 3%;
+    margin-top: 100px;
+    height: 100%;
+}
+.textone1 img{
+    width:100%;
+    margin-right:300px;
+    
+}
+    
+    
+    
+
+
