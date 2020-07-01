@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+section{
+    height: 800px;
+    
+}
+.biodataofmy{
+    background-image: url(/biography-bg.png);
+    background-repeat: no-repeat;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#thisish2{
+    font-size: 45px;
+    color: #EC4C7A;
+    
+}
+#thisisa{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #f54a7a,#EC4C7A);
+    font-weight: 400;
+    padding: 20px;
+    border-radius: 15px;
+    color: white;
+    
+}
+#thisisp{
+    margin-bottom: 40px;
+}
+.amisection{
+    background-image: url(/header-bg.png);
+    background-repeat: no-repeat;
+}
+.textone{
+    width: 40%;
+    float: left;
+    margin-left: 5%; 
+    padding-left: 3%;
+    margin-top: 100px;
+    height: 100%;
+}
+.textone img{
+    width:80%;
+    margin-right:300px;
+    
+}
+.biodataofmy{
+    background-image: url(/biography-bg.png);
+    background-repeat: no;
+    width: 100%;
+    height: 100%;
+    
+}
+.textone0{
+    width: 40%;
+    float: left;
+    margin-left: 5%; 
+    padding-left: 3%;
+    margin-top: 100px;
+    height: 100%;
+}
+.textone0 img{
+    width:40%;
+    margin-right:300px;
+    height: 100%;
+    
+}
+
+#thisish1{
+    color: #EC4C7A;
+    font-size: 40px;
+    margin-top: 90px;
+    height: 100%;
+}
+#thisisp{
+    margin-top: 40px;
+}
+#latest{
+    text-align: center;
+}
+.textone1{
+    width: 10%;
+    float: left;
+    margin-left: 5%; 
+    padding-left: 3%;
+    margin-top: 100px;
+    
+}
+.textone1 img{
+    width:100%;
+    margin-right:300px;
+    
+}
+.experience-area{
+    height: 800px;
+}
+.experience-area{
+
+        width: 100%;
+        float: left;
+        margin: 5%; 
+        padding: 15px;
+        margin-top: 100px;
+        height: 100%;
+        background-image: url(/latest-work-bg.png);
+        background-repeat: no-repeat;
+}
+.experience-area img{
+        width:32%;
+        float: left;
+        
+}
+#mylastest1{
+    margin-top: 20px;
+    padding: 20px;
+    margin-left: 600px;
+    font-size: 45px;
+    margin-bottom: 30px;
+}
+.the-last-section{
+        float: left;
+        margin: 5%; 
+        padding: 15px;
+        margin-top: 100px;
+        height: 100%;
+}
+.client{
+    
+        margin-top: 10px;
+        padding: 10px;
+        margin-left: 600px;
+        font-size: 30px;
+        margin-bottom: 20px;
+        font-weight:600 ;
+}
+.ceo{
+     padding: 10px;
+    margin-left: 700px;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.founder{
+    margin-left: 640px;
+    font-size: 15px;
+}
+.gibon-er-last {
+    padding: 10px;
+   margin-left: 520px;  
+   background-color: #f54a7a;
+   padding: 50px;
+   border-radius: 20px;
+   margin-top: 20px;
+}
+.gibon-er-last a{
+    text-decoration: none;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    margin-left: 20px;
+}
+.gibon-er-last p{
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+
+
+    
+    
+
+
